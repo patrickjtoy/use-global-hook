@@ -1,0 +1,30 @@
+{
+  "author": "patrickjtoy",
+  "name": "@patrickjtoy/use-global-hook",
+  "description": "Easy state management for react using hooks in less than 1kb",
+  "version": "1.0.0",
+  "license": "MIT",
+  "main": "dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patrickjtoy/use-global-hook.git"
+  },
+  "keywords": [
+    "react",
+    "state management"
+  ],
+  "bugs": {
+    "url": "https://github.com/patrickjtoy/use-global-hook/issues"
+  },
+  "homepage": "https://github.com/patrickjtoy/use-global-hook#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@types/react": "^16.9.50",
+    "prettier": "^2.1.2"
+  },
+  "dependencies": {
+    "react": "^16.13.1"
+  }
+}
